@@ -1,5 +1,5 @@
 # Aura Kingdom v7
-This repository contains Aura Kingdom Taiwan files that have been converted to work with the v7 release from [RageZone](https://forum.ragezone.com/f937/release-frostblock-shinobi-server-1188329/).
+This repository contains Aura Kingdom Taiwan files that have been converted to work with the v7 release from [RaGEZONE](https://forum.ragezone.com/f937/release-frostblock-shinobi-server-1188329/).
 
 ## Where to find what you need
 ```
